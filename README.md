@@ -106,3 +106,8 @@ $ npm start
 
 ```
 
+
+## Admin Login Credentials
+
+email: shuvo@gmail.com
+pass: 12345678
