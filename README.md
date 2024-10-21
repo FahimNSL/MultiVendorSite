@@ -45,9 +45,18 @@ $ cd project
 $ npm install
 ```
 
-## Start development
+## Start Backend
 
 ```
+$ cd server
+$ npm install
+$ npm start
+```
+## Start Frontend
+
+```
+$ cd client
+$ npm install
 $ npm run dev
 ```
 
